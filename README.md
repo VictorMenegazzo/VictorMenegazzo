@@ -1,6 +1,6 @@
 # Victor Menegazzo
 
-CEO at @Gikybot.
+CEO at @FlowStepInc.
 
 [![Gmail Badge](https://img.shields.io/badge/-comercial.victormenegazzo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:comercial.victormenegazzo@gmail.com)](mailto:comercial.victormenegazzo@gmail.com)
 
