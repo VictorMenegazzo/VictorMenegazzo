@@ -1,13 +1,16 @@
-# Victor Menegazzo
+<h1 align="center">Hi dear 👋, I'm Victor Menegazzo</h1>
+<h3 align="center">🚀 I'm a Javascript FullStack developer, passionate about the React ecosystem. I am working with Typescript 💙.</h3>
 
-CEO at @FlowStepInc.
+- 🔭 I’m currently working on [FlowStep Inc.](https://github.com/FlowStepInc)
 
-[![Gmail Badge](https://img.shields.io/badge/-comercial.victormenegazzo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:comercial.victormenegazzo@gmail.com)](mailto:comercial.victormenegazzo@gmail.com)
+- 👨‍💻 A lot of my projects are available here
 
-🚀 I'm a Javascript FullStack developer, passionate about the React ecosystem. Also Learning Typescript 💙.
+- 💬 I'm working with **Typescript in Node.js, ReactJS and React Native**
+
+- 📫 You can talk to me through Discord (Vincks#0076) or by e-mail [![Gmail Badge](https://img.shields.io/badge/-comercial.victormenegazzo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:comercial.victormenegazzo@gmail.com)](mailto:comercial.victormenegazzo@gmail.com)
 
 
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+You can find the technologies that I have experience, I am studying or I am interested in [my Rocketseat profile](https://app.rocketseat.com.br/me/victor-menegazzo)
 
 ![VictorMenegazzo's github stats](https://github-readme-stats.vercel.app/api?username=VictorMenegazzo)
 ![VictorMenegazzo's github top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMenegazzo&layout=compact)
