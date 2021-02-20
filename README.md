@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear 👋, I'm Victor Menegazzo (Vincks)</h1>
-<h3 align="center">🚀 I'm a Javascript FullStack developer, passionate about the React ecosystem. I am working with Typescript 💙.</h3>
+<h3 align="center">🚀 Javascript FullStack developer, passionate about the React ecosystem. I'm Working with Typescript 💙</h3>
 
 - 🔭 I’m currently working on [FlowStep Inc.](https://github.com/FlowStepInc)
 
