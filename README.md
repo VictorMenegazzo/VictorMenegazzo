@@ -1,7 +1,7 @@
 <img align="right" src="https://i.imgur.com/bE8ZRRA.png" width="300"/>
 
-<h3>Hi dear 👋, I'm Victor Menegazzo (Vincks)</h3>
-<h4>🚀 Javascript FullStack developer, passionate about the React ecosystem. I'm Working with Typescript 💙</h4>
+### Hi dear 👋, I'm Victor Menegazzo (Vincks)
+#### 🚀 Javascript FullStack developer, passionate about the React ecosystem. I'm Working with Typescript 💙
 
 - 🔭 I’m currently working on [FlowStep Inc.](https://github.com/FlowStepInc)
 
