@@ -1,4 +1,4 @@
-<img align="right" src="https://i.imgur.com/N0OPwfb.png" width="300"/>
+<img align="right" src="https://i.imgur.com/N0OPwfb.png" width="400"/>
 
 ### Hi dear 👋, I'm Victor Menegazzo (Vincks)
 #### 🚀 Javascript FullStack developer, passionate about the React ecosystem. I'm Working with Typescript 💙
