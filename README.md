@@ -14,5 +14,6 @@
 
 You can find the technologies that I have experience, I am studying or I am interested in [my Rocketseat profile](https://app.rocketseat.com.br/me/victor-menegazzo)
 
-![VictorMenegazzo's github stats](https://github-readme-stats.vercel.app/api?username=VictorMenegazzo&theme=radical)
-![VictorMenegazzo's github top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMenegazzo&layout=compact&theme=radical)
+
+![VictorMenegazzo's github stats](https://github-readme-stats.vercel.app/api?username=VictorMenegazzo&bg_color=332f54&title_color=7aa1ef&text_color=96a6ed)
+![VictorMenegazzo's github top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMenegazzo&layout=compact&bg_color=332f54&title_color=7aa1ef&text_color=96a6ed)
