@@ -3,7 +3,7 @@
 ### Hi dear 👋, I'm Victor Menegazzo (Vincks)
 #### 🚀 Javascript FullStack developer, passionate about the React ecosystem. I'm Working with Typescript 💙
 
-- 🔭 I’m currently working on [FlowStep Inc.](https://github.com/FlowStepInc)
+- 🔭 I’m currently working on [Giky Bot](https://github.com/gikybot)
 
 - 👨‍💻 A lot of my projects are available here
 
