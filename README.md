@@ -9,7 +9,7 @@
 
 - 💬 I'm working with **Typescript in Node.js, ReactJS and React Native**
 
-- 📫 You can talk to me through Discord (Vincks#0076) or by e-mail [![Gmail Badge](https://img.shields.io/badge/-comercial.victormenegazzo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:comercial.victormenegazzo@gmail.com)](mailto:comercial.victormenegazzo@gmail.com)
+- 📫 You can talk to me through [Discord](https://discord.com/users/463857594176503818)
 
 
 You can find the technologies that I have experience, I am studying or I am interested in [my Rocketseat profile](https://app.rocketseat.com.br/me/victor-menegazzo)
